@@ -1,0 +1,1 @@
+copy cmtrace.exe %userprofile%
